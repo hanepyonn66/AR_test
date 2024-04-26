@@ -9,5 +9,29 @@ Pr 0.5
 Pds 1
 Pl 1
 Ka 1 1 1
-Kd 1 0.03704431419077387 0.0014319055822625884
+Kd 0.886 0.454 0.262
+Ke 0 0 0Green
+
+newmtl Green
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 0.5
+Pr 0.5
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0 0.603 0.462
+Ke 0 0 0
+
+newmtl Blue
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 0.5
+Pr 0.5
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 0 0.211 0.458
 Ke 0 0 0
